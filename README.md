@@ -16,5 +16,5 @@
 
 > Data visualization tool:
 > 
-> [ITK-SNAP Medical Image Segmentation Tool](https://sourceforge.net/projects/itk-snap/)
+> [ITK-SNAP Medical Image Segmentation Tool](https://sourceforge.net/projects/itk-snap/files/itk-snap/3.8.0/itksnap-3.8.0-20190612-win64.exe/download)
 
